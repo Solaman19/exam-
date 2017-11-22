@@ -1,0 +1,294 @@
+@media (max-width:768px) {
+    
+    .logo{
+            padding-top: 25px;
+            font-size: 10px;}
+
+.navbar{padding:5px 10px;}
+
+.nav li a{color: white !important;
+         font-size: 8px;}
+
+.navbar_style{
+    background-color:transparent;
+    box-shadow: none;
+    background-image:none;
+    border: 0px;
+    font-size: 8px;}
+    
+    
+}
+            
+
+@media (min-width: 768px) and (max-width: 991px) 
+            {
+
+    #header{min-height: 495px;}
+    .header_bg_img{
+    background: url(../images/sm.jpg) no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
+.logo{padding-top: 25px;
+font-size: 10px;}
+
+.navbar{padding-top:5px;}
+
+.nav li a{color: white !important;}
+
+.navbar_style{
+    background-color:transparent;
+    box-shadow: none;
+    background-image:none;
+    border: 0px;
+    font-size: 7px;}
+
+
+
+.text {
+    margin: 150px auto;
+    min-height: 350px;}
+
+.text h1{
+    margin: 0 auto;
+    font-size: 30px;
+    color: white;
+}
+
+.imple{color: white;
+    font-size: 14px;
+margin-top: 40px;}
+
+.cloud_a{padding: 0px 9px;
+position: relative;}
+
+.download{
+    color: white;
+    background-color: #FC6A42;
+    border: 0px;
+    padding: 14px 35px;
+    margin-top: 57px;
+    border-radius: 5px;
+    font-size: 12pt;
+    }
+.feature{
+    color: white;
+    background-color: #4466C9;
+    border: 0px;
+    padding: 14px 35px;
+    margin-top: 57px;
+    border-radius: 5px;
+    font-size: 12pt;
+}
+
+.sunny{min-height: 70px;
+    width: 70px;
+    color: white;
+    border-radius: 50%;
+    background-color: #FC6A42;
+    border: 0px;
+    position: absolute;
+    top: 52%;
+    left: -18%;
+    text-transform: uppercase;
+    }
+
+.london{
+    min-height: 70px;
+    width: 70px;
+    color: white;
+    border-radius: 50%;
+    background-color: #4466c9;
+    border: 0px;
+    position: absolute;
+    top: 47%;
+    right: 10%;
+    text-transform: uppercase;
+}
+
+.rio{
+    min-height: 50px;
+    width: 50px;
+    color: #648cff;
+    border-radius: 50%;
+    background-color: #fcec64;
+    border: 0px;
+    position: absolute;
+    top: 90%;
+    right:16%;
+    text-transform: uppercase;
+}
+
+.nine{
+    min-height: 50px;
+    width: 50px;
+    color: #648cff;
+    border-radius: 50%;
+    background-color: #ffffff;
+    border: 0px;
+    position: absolute;
+    top: 20%;
+    right:15%;
+    text-transform: uppercase;
+}
+
+.down_arrow{
+    min-height: 35px;
+    width: 35px;
+    color: #ff5e62;
+    border-radius: 50%;
+    background-color: #ffffff;
+    border: 0px;
+    position: absolute;
+    top: 98%;
+    right:100%;
+    text-transform: uppercase;
+}
+
+
+
+.perfect_feature h1{
+        font-size: 36px;
+    color: #648cff;
+    margin: 50px 515px;
+}
+
+.necessary{color: #b3b3b3;
+    font-size: 15px;
+    margin: -40px 621px;
+    margin-bottom: 50px;
+}
+
+.perfect_feature_bg{
+    min-height: 580px;
+}
+
+.slider_image{
+    min-height: 950px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.slider_1{
+    position: absolute;
+       top: 220px;
+    left: 215px;
+    z-index: 20;
+}
+
+.slider_2{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    z-index: 30;
+}
+
+.slider_3{
+    position: absolute;
+    top: 220px;
+    left: 650px;
+    z-index: 10;
+}
+
+.arrow_left{font-size: 100px;}
+.arrow_right{font-size: 100px;
+float: right;}
+
+.mobile_display{min-height: 3000px;}
+
+.app_download{min-height: 460px;
+background-color: #648CFF;}
+                
+                
+                
+    .slider_2 {
+    position: absolute;
+    top: 6%;
+    left: 25%;
+    z-index: 30;
+}
+                
+                .slider_1 {
+    position: absolute;
+    top: 32%;
+    left: 7%;
+    z-index: 20;
+}
+                .slider_3 {
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    z-index: 10;
+}
+            }
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) 
+            {
+   .cloud_a {
+            padding: 29px 0px;
+            position: relative;
+            }
+                
+                .sunny {
+    min-height: 80px;
+    width: 80px;
+    color: white;
+    border-radius: 50%;
+    background-color: #FC6A42;
+    border: 0px;
+    position: absolute;
+    top: 50%;
+    left: -15%;
+    text-transform: uppercase;
+}
+                
+                .london {
+    min-height: 80px;
+    width: 80px;
+    color: white;
+    border-radius: 50%;
+    background-color: #4466c9;
+    border: 0px;
+    position: absolute;
+    top: 47%;
+    right: 27%;
+    text-transform: uppercase;
+}
+                
+                .rio {
+    min-height: 60px;
+    width: 60px;
+    color: #648cff;
+    border-radius: 50%;
+    background-color: #fcec64;
+    border: 0px;
+    position: absolute;
+    top: 92%;
+    right: 34%;
+    text-transform: uppercase;
+}
+                
+                .nine {
+    min-height: 60px;
+    width: 60px;
+    color: #648cff;
+    border-radius: 50%;
+    background-color: #ffffff;
+    border: 0px;
+    position: absolute;
+    top: 20%;
+    right: 32%;
+    text-transform: uppercase;
+}
+                
+                
+            }
+@media (min-width: 1200px) 
+            {
+                
+            }
